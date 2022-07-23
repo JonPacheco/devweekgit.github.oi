@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     list-style: none;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .resume-contents {
@@ -38,7 +42,8 @@
 
 .profile .profile-image {
     width: 100%;
-    border-radius: 100%;
+    border-radius: 50%;
+    border: 8px solid #1B2631;
 }
 
 .name {
